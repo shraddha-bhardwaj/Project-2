@@ -103,6 +103,9 @@ html {
   font-size: 1.5rem;
   font-family: "Bree Serif", serif;
 }
+#home .btn:focus {
+  outline: none;
+}
 /* Services Section */
 #services {
   margin: 34px;
